@@ -1,0 +1,1 @@
+export { default } from "file:///Users/augustomedri/Documents/GitHub/challenge-augusto-medri/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
